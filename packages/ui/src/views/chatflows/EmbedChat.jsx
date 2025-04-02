@@ -166,6 +166,12 @@ export const defaultThemeConfig = {
         dateTimeToggle: {
             date: true,
             time: true
+        },
+        footer: {
+            textColor: '#303235',
+            text: 'Powered by',
+            company: 'Smart Kit LM',
+            companyLink: 'https://flowiseai.com'
         }
     }
 }
